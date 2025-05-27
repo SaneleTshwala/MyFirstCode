@@ -1,0 +1,28 @@
+h1{
+    color: darkred;
+    font-family: fantasy
+}
+p{
+    color: rgb(140, 49, 49);
+    font-family: monospace
+}
+ul{
+    list-style-image: url('images/pointer-icon.png');
+    
+}
+ol{
+    list-style-type:decimal-leading-zero;
+    background-color: beige
+}
+#menu-bar a{
+    font-family:sans-serif;
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 5px;
+    
+}
+#menu-bar a:hover{
+    background-color:aqua;
+    color: #117373;
+    font-family:fantasy
+}
